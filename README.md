@@ -24,4 +24,4 @@ To execute the tests on your local machine:
 1. Download or clone the repository onto your machine.
 2. Extract the .zip file.
 3. Open the index.html in your browser.
-4. Alternatively you can click on the following [Link](https://jsoto3000.github.io) to execute the tests.
+4. Alternatively you can click on the following [Link](https://jsoto3000.github.io/frontend-nanodegree-feedreader-master-js/) to execute the tests.
